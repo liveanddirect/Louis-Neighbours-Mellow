@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+}
+
+.im-gif {
+  width: 700px;
+  position: absolute;
+  top: 240px;
+  left:120px;
+}
